@@ -1,0 +1,44 @@
+Dec  1 02:35:35 danny-ubuntu kernel: [    0.290103] smp: Bringing up secondary CPUs ...
+Dec  1 02:35:35 danny-ubuntu kernel: [    0.292312] smp: Brought up 1 node, 4 CPUs
+Dec  1 02:35:35 danny-ubuntu kernel: [    0.292312] smpboot: Max logical packages: 2
+Dec  1 02:35:35 danny-ubuntu kernel: [    0.292312] smpboot: Total of 4 processors activated (27648.58 BogoMIPS)
+Dec  1 02:36:31 danny-ubuntu kernel: [  110.985986] smpboot: CPU 2 is now offline
+Dec  1 02:36:31 danny-ubuntu kernel: [  111.096677] smpboot: CPU 3 is now offline
+Dec  1 02:36:36 danny-ubuntu kernel: [  115.367720] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Dec  1 02:36:36 danny-ubuntu kernel: [  115.459789] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Dec  1 02:42:11 danny-ubuntu kernel: [  450.356939] smpboot: CPU 2 is now offline
+Dec  1 02:42:11 danny-ubuntu kernel: [  450.476705] smpboot: CPU 3 is now offline
+Dec  1 02:42:52 danny-ubuntu kernel: [  492.297925] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Dec  1 02:42:53 danny-ubuntu kernel: [  492.369916] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Dec  1 02:43:11 danny-ubuntu kernel: [  510.344194] smpboot: CPU 2 is now offline
+Dec  1 02:43:11 danny-ubuntu kernel: [  510.428103] smpboot: CPU 3 is now offline
+Dec  1 02:45:07 danny-ubuntu kernel: [  627.330167] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Dec  1 02:45:08 danny-ubuntu kernel: [  627.406266] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Dec  1 02:45:21 danny-ubuntu kernel: [  641.272922] smpboot: CPU 2 is now offline
+Dec  1 02:45:22 danny-ubuntu kernel: [  641.372796] smpboot: CPU 3 is now offline
+Dec  1 02:45:26 danny-ubuntu kernel: [  646.335758] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Dec  1 02:45:27 danny-ubuntu kernel: [  646.423694] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Dec  1 03:25:35 danny-ubuntu kernel: [    0.079191] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+Dec  1 03:25:35 danny-ubuntu kernel: [    0.292047] smpboot: CPU0: AMD Phenom(tm) II X4 B50 Processor (family: 0x10, model: 0x5, stepping: 0x3)
+
+Dec  1 05:20:40 danny-ubuntu kernel: [    0.294214] smp: Bringing up secondary CPUs ...
+Dec  1 05:20:40 danny-ubuntu kernel: [    0.296426] smp: Brought up 1 node, 4 CPUs
+Dec  1 05:20:40 danny-ubuntu kernel: [    0.296426] smpboot: Max logical packages: 2
+Dec  1 05:20:40 danny-ubuntu kernel: [    0.296426] smpboot: Total of 4 processors activated (27646.62 BogoMIPS)
+Dec  1 05:22:22 danny-ubuntu kernel: [  133.633702] smpboot: CPU 2 is now offline
+Dec  1 05:22:22 danny-ubuntu kernel: [  133.728312] smpboot: CPU 3 is now offline
+Dec  1 05:22:26 danny-ubuntu kernel: [  137.644279] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Dec  1 05:22:26 danny-ubuntu kernel: [  137.716259] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Dec  1 05:47:39 danny-ubuntu kernel: [    0.085888] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+Dec  1 05:47:39 danny-ubuntu kernel: [    0.307062] smpboot: CPU0: AMD Phenom(tm) II X4 B50 Processor (family: 0x10, model: 0x5, stepping: 0x3)
+
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.305354] smp: Bringing up secondary CPUs ...
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.307566] smp: Brought up 1 node, 4 CPUs
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.307566] smpboot: Max logical packages: 2
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.307566] smpboot: Total of 4 processors activated (28160.22 BogoMIPS)
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    0.082733] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    0.304661] smpboot: CPU0: AMD Phenom(tm) II X4 B50 Processor (family: 0x10, model: 0x5, stepping: 0x3)
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    0.304708] smp: Bringing up secondary CPUs ...
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    0.306918] smp: Brought up 1 node, 4 CPUs
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    0.306918] smpboot: Max logical packages: 2
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    0.306918] smpboot: Total of 4 processors activated (28160.28 BogoMIPS)
