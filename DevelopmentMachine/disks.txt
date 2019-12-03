@@ -1,0 +1,51 @@
+Filesystem                                Size  Used Avail Use% Mounted on
+udev                                      3,9G     0  3,9G   0% /dev
+tmpfs                                     798M  3,5M  794M   1% /run
+/dev/sdb6                                  23G   20G  2,4G  89% /
+tmpfs                                     3,9G  182M  3,8G   5% /dev/shm
+tmpfs                                     5,0M  4,0K  5,0M   1% /run/lock
+tmpfs                                     3,9G     0  3,9G   0% /sys/fs/cgroup
+/dev/loop22                               8,7M  8,7M     0 100% /snap/canonical-livepatch/88
+/dev/sdb7                                 426G  247G  157G  62% /home
+tmpfs                                     798M   16K  798M   1% /run/user/121
+tmpfs                                     798M   92K  798M   1% /run/user/1000
+
+
+Disk /dev/sda: 298,1 GiB, 320072933376 bytes, 625142448 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x659b96c5
+
+Device     Boot     Start       End   Sectors   Size Id Type
+/dev/sda1  *         2048    206847    204800   100M  7 HPFS/NTFS/exFAT
+/dev/sda2          206848 330302551 330095704 157,4G 82 Linux swap / Solaris
+/dev/sda3       623271936 624216063    944128   461M 27 Hidden NTFS WinRE
+/dev/sda4       624218112 625139711    921600   450M 27 Hidden NTFS WinRE
+
+
+Disk /dev/sdb: 465,8 GiB, 500107862016 bytes, 976773168 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x4c798023
+
+Device     Boot    Start       End   Sectors   Size Id Type
+/dev/sdb1  *        2046 964845567 964843522 460,1G  5 Extended
+/dev/sdb5           2048   7813119   7811072   3,7G 82 Linux swap / Solaris
+/dev/sdb6        7815168  56641535  48826368  23,3G 83 Linux
+/dev/sdb7       56643584 964845567 908201984 433,1G 83 Linux
+
+
+Disk /dev/sdc: 1,8 TiB, 2000398933504 bytes, 3907029167 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: gpt
+Disk identifier: F39D9B24-E2DE-11E9-A14C-7CDD90306C11
+
+Device     Start        End    Sectors  Size Type
+/dev/sdc1     34      32767      32734   16M Microsoft reserved
+/dev/sdc2  32768 3907028991 3906996224  1,8T Microsoft Storage Spaces
