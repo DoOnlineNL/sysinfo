@@ -7,7 +7,7 @@ Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013037] MTRR variable 
 Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013038]   0 base 000000000000 mask FFFF80000000 write-back
 Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013039]   1 base 000080000000 mask FFFFC0000000 write-back
 Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013040]   2 base 0000C0000000 mask FFFFE0000000 write-back
-Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013041]   3 disabled (BIOS didnt activate it first but the kernel fixed that, see line 21 in XXX)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013041]   3 disabled (BIOS didnt activate it first but the kernel fixed that, see line 21 in https://github.com/DoOnlineNL/sysinfo/blob/master/DevelopmentMachine/kernel.log.acpi-pci-line21.txt)
 Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013041]   4 disabled
 Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013042]   5 disabled
 Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.013042]   6 disabled
