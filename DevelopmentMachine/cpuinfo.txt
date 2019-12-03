@@ -1,0 +1,14 @@
+description: CPU
+product: AMD Phenom(tm) II X4 B50 Processor
+vendor: Advanced Micro Devices [AMD]
+physical id: 4
+bus info: cpu@0
+version: AMD Phenom(tm) II X4 B50 Processor
+serial: To Be Filled By O.E.M.
+slot: AM3R2
+size: 800MHz
+capacity: 3200MHz
+width: 64 bits
+clock: 220MHz
+capabilities: x86-64 fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp 3dnowext 3dnow constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid pni monitor cx16 popcnt lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt nodeid_msr hw_pstate vmmcall npt lbrv svm_lock nrip_save cpufreq
+configuration: cores=4 enabledcores=4 threads=4
