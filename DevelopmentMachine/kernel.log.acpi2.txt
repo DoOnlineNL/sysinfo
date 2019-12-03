@@ -1,0 +1,62 @@
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027469] ACPI: Early table checksum verification disabled
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027751] ACPI: RSDP 0x00000000000FB490 000024 (v02 ACPIAM)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027753] ACPI: XSDT 0x00000000DFE80100 000054 (v01 113011 XSDT1723 20111130 MSFT 00000097)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027758] ACPI: FACP 0x00000000DFE80290 0000F4 (v03 113011 FACP1723 20111130 MSFT 00000097)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027761] ACPI BIOS Warning (bug): Optional FADT field Pm2ControlBlock has valid Length but zero Address: 0x0000000000000000/0x1 (20181213/tbfadt-624)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027764] ACPI BIOS Warning (bug): 32/64X length mismatch in FADT/Gpe0Block: 64/32 (20181213/tbfadt-569)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027766] ACPI: DSDT 0x00000000DFE80460 00D80F (v01 A1887  A1887001 00000001 INTL 20060113)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027769] ACPI: FACS 0x00000000DFE98000 000040
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027771] ACPI: FACS 0x00000000DFE98000 000040
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027772] ACPI: APIC 0x00000000DFE80390 00008C (v01 113011 APIC1723 20111130 MSFT 00000097)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027774] ACPI: MCFG 0x00000000DFE80420 00003C (v01 113011 OEMMCFG  20111130 MSFT 00000097)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027777] ACPI: OEMB 0x00000000DFE98040 000072 (v01 113011 OEMB1723 20111130 MSFT 00000097)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027779] ACPI: HPET 0x00000000DFE8F460 000038 (v01 113011 OEMHPET  20111130 MSFT 00000097)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027781] ACPI: SSDT 0x00000000DFE8F4A0 0008BC (v01 A M I  POWERNOW 00000001 AMD  00000001)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027789] ACPI: Local APIC address 0xfee00000
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027864] Scanning NUMA topology in Northbridge 24
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027886] No NUMA configuration found
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027887] Faking a node at [mem 0x0000000000000000-0x000000021fffffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.027894] NODE_DATA(0) allocated [mem 0x21ffd3000-0x21fffdfff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028176] Zone ranges:
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028177]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028178]   DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028179]   Normal   [mem 0x0000000100000000-0x000000021fffffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028179]   Device   empty
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028180] Movable zone start for each node
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028184] Early memory node ranges
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028184]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028185]   node   0: [mem 0x0000000000100000-0x00000000dfe7ffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028185]   node   0: [mem 0x0000000100000000-0x000000021fffffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028195] Zeroed struct page in unavailable ranges: 482 pages
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028196] Initmem setup node 0 [mem 0x0000000000001000-0x000000021fffffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028197] On node 0 totalpages: 2096670
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028198]   DMA zone: 64 pages used for memmap
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028199]   DMA zone: 21 pages reserved
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028199]   DMA zone: 3998 pages, LIFO batch:0
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028291]   DMA32 zone: 14266 pages used for memmap
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.028292]   DMA32 zone: 913024 pages, LIFO batch:63
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.052385]   Normal zone: 18432 pages used for memmap
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.052387]   Normal zone: 1179648 pages, LIFO batch:63
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083185] ACPI: PM-Timer IO Port: 0x808
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083187] ACPI: Local APIC address 0xfee00000
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083200] IOAPIC[0]: apic_id 4, version 33, address 0xfec00000, GSI 0-23
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083202] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083203] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083204] ACPI: IRQ0 used by override.
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083205] ACPI: IRQ9 used by override.
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083206] Using ACPI (MADT) for SMP configuration information
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083208] ACPI: HPET id: 0x8300 base: 0xfed00000
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083211] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083222] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083223] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083223] PM: Registered nosave memory: [mem 0x000a0000-0x000e3fff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083224] PM: Registered nosave memory: [mem 0x000e4000-0x000fffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083225] PM: Registered nosave memory: [mem 0xdfe80000-0xdfe97fff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083225] PM: Registered nosave memory: [mem 0xdfe98000-0xdfebffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083226] PM: Registered nosave memory: [mem 0xdfec0000-0xdfefffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083226] PM: Registered nosave memory: [mem 0xdff00000-0xffdfffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083227] PM: Registered nosave memory: [mem 0xffe00000-0xffffffff]
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083228] [mem 0xdff00000-0xffdfffff] available for PCI devices
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083229] Booting paravirtualized kernel on bare hardware
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083232] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Dec  2 21:25:42 danny-ubuntu-bionic-beaver kernel: [    0.083240] random: get_random_bytes called from start_kernel+0x97/0x516 with crng_init=0
