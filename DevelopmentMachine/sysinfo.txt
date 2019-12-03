@@ -1,0 +1,55 @@
+============= Drives =============
+/dev/sda: Model=SAMSUNG HD322GJ, FwRev=1AR10001, SerialNo=S2BJJ9FB707911, Size=2981 GiB
+dos
+0x659b96c5
+/dev/sdb: Model=WDC WD5000AAKS-00UU3A0, FwRev=01.03B01, SerialNo=WD-WCAYU7054517, Size=4658 GiB
+dos
+0x4c798023
+/dev/sdc: , Size=1.8 TB
+gpt
+F39D9B24-E2DE-11E9-A14C-7CDD90306C11
+============= CPUs =============
+model name	: AMD Phenom(tm) II X4 B50 Processor
+model name	: AMD Phenom(tm) II X4 B50 Processor
+model name	: AMD Phenom(tm) II X4 B50 Processor
+model name	: AMD Phenom(tm) II X4 B50 Processor
+============= MEM =============
+8000 MiB
+============= PCI =============
++-00.0  Advanced Micro Devices, Inc. [AMD] RS780 Host Bridge
++-02.0-[01]--+-00.0  NVIDIA Corporation GK104 [GeForce GTX 680]
+|            \-00.1  NVIDIA Corporation GK104 HDMI Audio Controller
++-07.0-[02]----00.0  ASMedia Technology Inc. ASM1042 SuperSpeed USB Host Controller
++-0a.0-[03]----00.0  Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
++-11.0  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]
++-12.0  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB OHCI0 Controller
++-12.1  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0 USB OHCI1 Controller
++-12.2  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB EHCI Controller
++-13.0  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB OHCI0 Controller
++-13.1  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0 USB OHCI1 Controller
++-13.2  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB EHCI Controller
++-14.0  Advanced Micro Devices, Inc. [AMD/ATI] SBx00 SMBus Controller
++-14.1  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 IDE Controller
++-14.2  Advanced Micro Devices, Inc. [AMD/ATI] SBx00 Azalia (Intel HDA)
++-14.3  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 LPC host controller
++-14.4-[04]----06.0  Qualcomm Atheros AR922X Wireless Network Adapter
++-14.5  Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB OHCI2 Controller
++-18.0  Advanced Micro Devices, Inc. [AMD] Family 10h Processor HyperTransport Configuration
++-18.1  Advanced Micro Devices, Inc. [AMD] Family 10h Processor Address Map
++-18.2  Advanced Micro Devices, Inc. [AMD] Family 10h Processor DRAM Controller
++-18.3  Advanced Micro Devices, Inc. [AMD] Family 10h Processor Miscellaneous Control
+\-18.4  Advanced Micro Devices, Inc. [AMD] Family 10h Processor Link Control
+============= USB =============
+Bus 007 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 002 Device 002: ID 148f:5370 Ralink Technology, Corp. RT5370 Wireless Adapter
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 006 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 005 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 002: ID 1a2c:0002 China Resource Semico Co., Ltd 
+Bus 004 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 003 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 009 Device 003: ID 0bc2:2321 Seagate RSS LLC Expansion Portable
+Bus 009 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 008 Device 003: ID 18f8:1485  
+Bus 008 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
