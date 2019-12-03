@@ -1,0 +1,7 @@
+0-3
+drwxr-xr-x 7 root root 0 dec  3 19:03 /sys/devices/system/cpu/cpu0
+drwxr-xr-x 7 root root 0 dec  3 19:03 /sys/devices/system/cpu/cpu1
+drwxr-xr-x 7 root root 0 dec  3 19:03 /sys/devices/system/cpu/cpu2
+drwxr-xr-x 7 root root 0 dec  3 19:03 /sys/devices/system/cpu/cpu3
+drwxr-xr-x 7 root root 0 dec  3 18:02 /sys/devices/system/cpu/cpufreq
+drwxr-xr-x 2 root root 0 dec  3 19:28 /sys/devices/system/cpu/cpuidle
