@@ -1,0 +1,13 @@
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.507412] ledtrig-cpu: registered to indicate activity on CPUs
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.507622] NET: Registered protocol family 10
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.513799] Segment Routing with IPv6
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.513822] NET: Registered protocol family 17
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.513922] Key type dns_resolver registered
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514367] mce: Using 6 MCE banks
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514385] RAS: Correctable Errors collector initialized.
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514425] microcode: CPU0: patch_level=0x010000c8
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514440] microcode: CPU1: patch_level=0x010000c8
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514444] microcode: CPU2: patch_level=0x010000c8
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514459] microcode: CPU3: patch_level=0x010000c8
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514509] microcode: Microcode Update Driver: v2.2.
+Dec  3 11:18:26 danny-ubuntu-bionic-beaver kernel: [    1.514518] sched_clock: Marking stable (1514232112, 272460)->(1519111608, -4607036)
