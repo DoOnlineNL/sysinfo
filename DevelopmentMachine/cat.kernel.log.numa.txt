@@ -1,0 +1,2 @@
+Dec  2 09:23:21 danny kernel: [    0.000000] Scanning NUMA topology in Northbridge 24
+Dec  2 09:23:21 danny kernel: [    0.000000] No NUMA configuration found
