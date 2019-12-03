@@ -1,0 +1,5 @@
+Dec  2 19:06:44 danny-ubuntu-bionic-beaver kernel: [    1.523286] acpi_cpufreq: overriding BIOS provided _PSD data
+Dec  2 19:06:44 danny-ubuntu-bionic-beaver kernel: [    1.665551] ACPI Warning: SystemIO range 0x0000000000000B00-0x0000000000000B08 conflicts with OpRegion 0x0000000000000B00-0x0000000000000B0F (\SOR1) (20181213/utaddress-213)
+Dec  2 19:06:44 danny-ubuntu-bionic-beaver kernel: [    1.665560] ACPI Warning: SystemIO range 0x0000000000000B00-0x0000000000000B08 conflicts with OpRegion 0x0000000000000B00-0x0000000000000B2F (\_SB.PCI0.SBRG.ASOC.SMRG) (20181213/utaddress-213)
+Dec  2 19:06:44 danny-ubuntu-bionic-beaver kernel: [    1.665563] ACPI Warning: SystemIO range 0x0000000000000B00-0x0000000000000B08 conflicts with OpRegion 0x0000000000000B00-0x0000000000000B2F (\SMRG) (20181213/utaddress-213)
+Dec  2 19:06:44 danny-ubuntu-bionic-beaver kernel: [    1.665567] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
